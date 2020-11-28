@@ -2,4 +2,4 @@
 
 first master commit
 second dev commit
-master conflict
+dev conflict
